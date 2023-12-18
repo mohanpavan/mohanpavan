@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohanpavan
 - 👀 I’m interested in science and computers
-- 🌱 I’m currently working in c++, python, ros2, java and web-technologies(basic)
+- 🌱 I’m currently working in c++, python, ros2, java and web-technologies.
 - 💞️ I’m looking to collaborate on machine-learning and artifical-intelligence
 - 📫 How to reach me mohanpavansh@gmail.com
 - 🎮 Hobbies: pc builds and gaming 
